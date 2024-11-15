@@ -14,8 +14,6 @@ sentiments = {
 
 The data was collected using the Twitter API. The current dataset supports the multi-class classification task.
 
-### Task: Sentiment Analysis
-
 ### Data Splits
 There are 2 splits: train and validation. Below are the statistics:
 
