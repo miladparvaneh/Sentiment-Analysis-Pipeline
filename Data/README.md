@@ -16,7 +16,7 @@ The data was collected using the Twitter API. The current dataset supports the m
 
 ### Task: Sentiment Analysis
 
-# Data Splits
+### Data Splits
 There are 2 splits: train and validation. Below are the statistics:
 
 | Dataset Split | Number of Instances in Split                |
@@ -25,8 +25,8 @@ There are 2 splits: train and validation. Below are the statistics:
 | Validation    | 2,486                                       |
 
 
-# Licensing Information
+### Licensing Information
 The Twitter Financial Dataset (sentiment) version 1.0.0 is released under the MIT License.
 
-# Dataset Source
+### Dataset Source
 The dataset used for this project is sourced from the [zeroshot](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment) account on Hugging Face. It focuses on financial news sentiment analysis from tweets, making it highly relevant for understanding market sentiment. This dataset serves as a foundational component for training and fine-tuning the sentiment analysis models used in this project.
