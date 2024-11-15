@@ -1,34 +1,3 @@
----
-annotations_creators:
-- other
-language:
-- en
-language_creators:
-- other
-license:
-- mit
-multilinguality:
-- monolingual
-pretty_name: twitter financial news
-size_categories:
-- 10K<n<100K
-source_datasets:
-- original
-tags:
-- twitter
-- finance
-- markets
-- stocks
-- wallstreet
-- quant
-- hedgefunds
-- markets
-task_categories:
-- text-classification
-task_ids:
-- multi-class-classification
----
-
 ### Dataset Description
 
 The Twitter Financial News dataset is an English-language dataset containing an annotated corpus of finance-related tweets. This dataset is used to classify finance-related tweets for their sentiment.
@@ -58,3 +27,6 @@ There are 2 splits: train and validation. Below are the statistics:
 
 # Licensing Information
 The Twitter Financial Dataset (sentiment) version 1.0.0 is released under the MIT License.
+
+# Dataset Source
+The dataset used for this project is sourced from the [zeroshot](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment) account on Hugging Face. It focuses on financial news sentiment analysis from tweets, making it highly relevant for understanding market sentiment. This dataset serves as a foundational component for training and fine-tuning the sentiment analysis models used in this project.
