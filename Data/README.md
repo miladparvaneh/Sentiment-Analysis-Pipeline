@@ -2,7 +2,7 @@
 
 The Twitter Financial News dataset is an English-language dataset containing an annotated corpus of finance-related tweets. This dataset is used to classify finance-related tweets for their sentiment.
 
-1. The dataset holds 11,932 documents annotated with 3 labels:
+The dataset holds 11,932 documents annotated with 3 labels:
 
 ```python
 sentiments = {
@@ -21,7 +21,6 @@ There are 2 splits: train and validation. Below are the statistics:
 | ------------- | ------------------------------------------- |
 | Train         | 9,938                                       |
 | Validation    | 2,486                                       |
-
 
 ### Licensing Information
 The Twitter Financial Dataset (sentiment) version 1.0.0 is released under the MIT License.
