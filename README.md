@@ -1,3 +1,3 @@
 # Sentiment-Analysis-Pipeline
 ## Project Overview
-In this project, I will build an NLP-based sentiment analysis model to extract public sentiment from Twitter related to specific stocks or the market in general. I will then use this sentiment, along with other features such as tweet volume and time of day, to predict short-term stock market movements.
+This project focuses on developing an NLP-based sentiment analysis system designed to extract public sentiment from X (formerly Twitter) about specific stocks or the market as a whole. The objective is to build an end-to-end, cloud-native MLOps pipeline capable of performing real-time sentiment analysis on tweets. By leveraging fine-tuned large language models (LLMs) such as BERT and GPT, the system aims to integrate sentiment insights with stock market trends to predict market performance effectively.
